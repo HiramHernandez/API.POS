@@ -7,11 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Datos\" />
-    <Folder Include="Helpers\" />
-    <Folder Include="Persistencia\Context\" />
-    <Folder Include="Persistencia\Interfaces\" />
-    <Folder Include="Persistencia\Repositories\" />
+    <Folder Include="Persistences\Interfaces\" />
+    <Folder Include="Persistences\Repositories\" />
   </ItemGroup>
 
   <ItemGroup>
